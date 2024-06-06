@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/dp-env" />
+      <excludeFolder url="file://$MODULE_DIR$/cache" />
+      <excludePattern pattern=".Python" />
+      <excludePattern pattern="pandasai.log" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12 (data-playground)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
