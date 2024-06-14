@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="postgres@localhost" uuid="705e14ad-6c8a-4490-b863-ccd1801291af">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="SIT RO" uuid="0ae050e2-ebd9-4140-a7a3-fcef82deed5d">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://nutrien-sit-ae-dos-data.cluster-cwzm28gacjto.us-east-1.rds.amazonaws.com:5432/dosapi</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="PROD RO" read-only="true" uuid="6d88ef06-579c-4eb2-bcad-7fd9837d1398">
+    <data-source source="LOCAL" name="PROD RO" read-only="true" uuid="0f9349c2-b9d2-4038-a13b-ad79757066b5">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://nutrien-prd-ae-dos-data.cluster-ro-cs25idc8vxlf.us-east-1.rds.amazonaws.com:5432/dosapi</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
+      <keep-alive enable="true" />
     </data-source>
   </component>
 </project>
