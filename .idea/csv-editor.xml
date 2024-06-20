@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/.venv/lib/python3.12/site-packages/fiona/gdal_data/grib2_table_4_2_0_4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/.venv/lib/python3.12/site-packages/fiona/gdal_data/grib2_table_4_2_local_MRMS.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/mfr-prod/cleaned_data.csv">
           <value>
             <Attribute>
